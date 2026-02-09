@@ -2,7 +2,7 @@
 
 I’m a Software Developer & Aspiring Business/Data Analyst with a strong foundation in JavaScript, Python, SQL, and web technologies. I enjoy building practical projects, working with data, and using technology to solve real-world business problems.
 
-I have hands-on experience in frontend development (HTML, CSS, JavaScript, React basics), database management (MySQL, SQL), and a growing interest in AI, Generative AI, and data-driven decision making. I actively practice problem-solving, explore new tools, and continuously improve my skills through projects and certifications.
+I have hands-on experience in frontend development (HTML, CSS, JavaScript, React basics), database management (MySQL, SQL), and a growing interest in AI, Generative AI, and data-driven decision making.I continuously enhance my skills through projects, certifications, and consistent problem-solving practice, with a focus on writing clean, efficient, and maintainable code.
 
 Currently, I’m focused on:
 
